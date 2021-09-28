@@ -13,16 +13,16 @@ MSA 관련 기술들을 이것저것 돌려보는 놀이터용 레포입니다.
 
 ## 놀이터에서 작업할 내용들
 
-- [instagram clone web 서비스](playgrounds/msa)
+- [instagram clone web 서비스](https://github.com/nurinamu/msa-playground/tree/main/playgrounds/msa)
     - webfront + (apigw) + apiserver + db + (cache)
     - 모두 k8s cluster 안에 구축
-- [k8s 연습](playgrounds/k8s)
+- [k8s 연습](https://github.com/nurinamu/msa-playground/tree/main/playgrounds/k8s)
     - 클러스터 이중화 연습
     - 내부망 / 외부망 접근제어 연습
     - [kustomize](https://kustomize.io/) 각종 기능들 연습
-- [istio 연습](playgrounds/istio)
+- [istio 연습](https://github.com/nurinamu/msa-playground/tree/main/playgrounds/istio)
     - monitoring 관련 설정 ( [prometheus](https://prometheus.io/) + [grafana](https://grafana.com/) )
-- [CI / CD 연습](playgrounds/ci-cd)
+- [CI / CD 연습](https://github.com/nurinamu/msa-playground/tree/main/playgrounds/ci-cd)
     - [github action](https://docs.github.com/en/actions)을 통한 ci/cd
     - [jenkins](https://www.jenkins.io/) + [argocd](https://argoproj.github.io/argo-cd/)를 통한 ci/cd
 
