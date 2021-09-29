@@ -26,3 +26,9 @@ MSA 관련 기술들을 이것저것 돌려보는 놀이터용 레포입니다.
     - [github action](https://docs.github.com/en/actions)을 통한 ci/cd
     - [jenkins](https://www.jenkins.io/) + [argocd](https://argoproj.github.io/argo-cd/)를 통한 ci/cd
 
+## 기본 실행환경
+
+``` sh
+$ minikube start // minikube 실행
+$ kubectl config use-context minikube // minikube context로 연결
+```
