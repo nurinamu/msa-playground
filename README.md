@@ -17,6 +17,7 @@ MSA 관련 기술들을 이것저것 돌려보는 놀이터용 레포입니다.
     - webfront + (apigw) + apiserver + db + (cache)
     - 모두 k8s cluster 안에 구축
 - [k8s 연습](https://github.com/nurinamu/msa-playground/tree/main/playgrounds/k8s)
+    - 클러스터 관리(node 추가,삭제)
     - 클러스터 이중화 연습
     - 내부망 / 외부망 접근제어 연습
     - [kustomize](https://kustomize.io/) 각종 기능들 연습
